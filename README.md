@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%26%20Android%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%203D%20Creative%20Tech&descSize=16&descAlignY=63&animation=fadeIn" alt="Krishna Mokhande Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%203D%20Tech&descSize=16&descAlignY=63&animation=fadeIn" alt="Krishna Mokhande Header Banner" width="100%" />
 
 <!-- Animated Typing Tagline -->
 <a href="https://github.com/kmokhande-byte">
@@ -168,7 +168,7 @@
       </p>
       <p>
         <a href="https://github.com/kmokhande-byte/StickerBridgeApp">
-          <img src="https://img.shields.io/badge/Source-kmokhande--byte%2FStickerBridgeApp-1a1b27?style=flat-square&logo=github&logoColor=9ece6a" alt="StickerBridgeApp Source" />
+          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=9ece6a" alt="StickerBridgeApp Source" />
         </a>
       </p>
     </td>
@@ -180,7 +180,7 @@
       </p>
       <p>
         <a href="https://github.com/kmokhande-byte/ProVpn">
-          <img src="https://img.shields.io/badge/Source-kmokhande--byte%2FProVpn-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7" alt="ProVpn Source" />
+          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7" alt="ProVpn Source" />
         </a>
       </p>
     </td>
@@ -194,7 +194,7 @@
       </p>
       <p>
         <a href="https://github.com/kmokhande-byte/file_Danger_Detector">
-          <img src="https://img.shields.io/badge/Source-kmokhande--byte%2Ffile__Danger__Detector-1a1b27?style=flat-square&logo=github&logoColor=bb9af7" alt="file_Danger_Detector Source" />
+          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=bb9af7" alt="file_Danger_Detector Source" />
         </a>
       </p>
     </td>
@@ -206,7 +206,7 @@
       </p>
       <p>
         <a href="https://github.com/kmokhande-byte/book">
-          <img src="https://img.shields.io/badge/Source-kmokhande--byte%2Fbook-1a1b27?style=flat-square&logo=github&logoColor=7dcfff" alt="book Source" />
+          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=7dcfff" alt="book Source" />
         </a>
       </p>
     </td>
@@ -218,9 +218,9 @@
 <h2 align="center">📊 Analytics &amp; Contribution Activity</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmokhande-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmokhande-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
   &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=kmokhande-byte&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=7aa2f7" alt="GitHub Streak Stats" />
+  <img width="56%" src="https://streak-stats.demolab.com/?user=kmokhande-byte&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=7aa2f7" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -237,14 +237,14 @@
 
 <!--START_SECTION:latest_repos-->
 
-| Repository | Description | Language | Stars | Last Pushed |
-| :--- | :--- | :--- | :---: | :---: |
-| [**StickerBridgeApp**](https://github.com/kmokhande-byte/StickerBridgeApp) | Android sticker pack app for WhatsApp built with Java, AndroidX, and Fresco for animated WebP stickers. | `Java` | ⭐ 0 | `2026-11-22` |
-| [**ProVpn**](https://github.com/kmokhande-byte/ProVpn) | ProVPN is a privacy-focused VPN project that secures internet traffic through encrypted connections. It aims… | `—` | ⭐ 0 | `2026-06-13` |
-| [**file_Danger_Detector**](https://github.com/kmokhande-byte/file_Danger_Detector) | A simple JavaScript-based malware file detector that scans files for suspicious content and identifies potent… | `JavaScript` | ⭐ 0 | `2026-05-17` |
-| [**passwordHasher**](https://github.com/kmokhande-byte/passwordHasher) | Educational JavaScript utility demonstrating basic character-code password encoding concepts for cybersecurit… | `JavaScript` | ⭐ 1 | `2026-05-17` |
-| [**book**](https://github.com/kmokhande-byte/book) | A Python-based tool that automatically searches the internet for publicly available legal book PDF links. The… | `Python` | ⭐ 0 | `2026-03-08` |
-| [**krushnamokhand**](https://github.com/kmokhande-byte/krushnamokhand) | Static multi-page web resource directory built with HTML and CSS. | `HTML` | ⭐ 0 | `2026-01-02` |
+| Repository | Description | Stack | Updated |
+| :--- | :--- | :---: | :---: |
+| [**StickerBridgeApp**](https://github.com/kmokhande-byte/StickerBridgeApp) | Android sticker pack app for WhatsApp built with Java, Androi… | `Java` · ⭐ 0 | 2026-11-22 |
+| [**ProVpn**](https://github.com/kmokhande-byte/ProVpn) | ProVPN is a privacy-focused VPN project that secures internet… | ⭐ 0 | 2026-06-13 |
+| [**file_Danger_Detector**](https://github.com/kmokhande-byte/file_Danger_Detector) | A simple JavaScript-based malware file detector that scans fi… | `JavaScript` · ⭐ 0 | 2026-05-17 |
+| [**passwordHasher**](https://github.com/kmokhande-byte/passwordHasher) | Educational JavaScript utility demonstrating basic character-… | `JavaScript` · ⭐ 1 | 2026-05-17 |
+| [**book**](https://github.com/kmokhande-byte/book) | A Python-based tool that automatically searches the internet… | `Python` · ⭐ 0 | 2026-03-08 |
+| [**krushnamokhand**](https://github.com/kmokhande-byte/krushnamokhand) | Static multi-page web resource directory built with HTML and… | `HTML` · ⭐ 0 | 2026-01-02 |
 
 <!--END_SECTION:latest_repos-->
 

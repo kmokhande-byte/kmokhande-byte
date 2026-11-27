@@ -14,7 +14,7 @@ from pathlib import Path
 START_MARKER = "<!--START_SECTION:latest_repos-->"
 END_MARKER = "<!--END_SECTION:latest_repos-->"
 MAX_REPOS = 8
-MAX_DESC_LEN = 110
+MAX_DESC_LEN = 62
 
 
 def fetch_repos(username: str, token: str | None = None) -> list[dict]:
@@ -62,8 +62,8 @@ def build_table(repos: list[dict]) -> str:
         return "_No public repositories found yet._"
 
     lines = [
-        "| Repository | Description | Language | Stars | Last Pushed |",
-        "| :--- | :--- | :--- | :---: | :---: |",
+        "| Repository | Description | Stack | Updated |",
+        "| :--- | :--- | :---: | :---: |",
     ]
     for repo in repos:
         name = sanitize_cell(repo.get("name"), "unknown")
@@ -72,7 +72,8 @@ def build_table(repos: list[dict]) -> str:
         lang = sanitize_cell(repo.get("language"), "—")
         stars = int(repo.get("stargazers_count") or 0)
         pushed = (repo.get("pushed_at") or "")[:10] or "—"
-        lines.append(f"| [**{name}**]({url}) | {desc} | `{lang}` | ⭐ {stars} | `{pushed}` |")
+        stack = f"`{lang}` · ⭐ {stars}" if lang != "—" else f"⭐ {stars}"
+        lines.append(f"| [**{name}**]({url}) | {desc} | {stack} | {pushed} |")
     return "\n".join(lines)
 
 
