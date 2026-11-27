@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:292e42,100:3d59a1&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Systems%20%E2%80%A2%203D%20Tech&descSize=16&descAlignY=63&stroke=1a1b27&strokeWidth=1" alt="Krishna Mokhande Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:292e42,100:3d59a1&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%203D%20Motion%20%E2%80%A2%20Post-Production&descSize=15&descAlignY=63&stroke=1a1b27&strokeWidth=1" alt="Krishna Mokhande Header Banner" width="100%" />
 
 <!-- Animated Typing Tagline -->
 <a href="https://github.com/kmokhande-byte">
@@ -30,12 +30,12 @@
 ---
 
 <!-- Overview Split Section (Borderless 2-Column Layout) -->
-<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kmokhande-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7" alt="Krishna Mokhande GitHub Stats" />
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kmokhande-byte&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7&border_color=3d59a1&border_radius=10" alt="Krishna Mokhande GitHub Stats" />
 
 ### ⚡ About Me
 
 - 🔭 Contributing to open-source 3D tooling at the **Blender Foundation**
-- 🎬 Building 3D kinetic typography & mixed-media pipelines (**Blender 5.2 Cycles + Remotion React**)
+- 🎬 Crafting 3D motion, color grading & post-production pipelines (**Blender**, **DaVinci Resolve**, **Premiere Pro**, **After Effects**, **Lightroom** & **Remotion**)
 - 📱 Shipping native **Java / Android** apps (**StickerBridgeApp**) and developer utilities (**book**, **krushnamokhand**)
 - 💻 Solving algorithmic problems in **C++ & Python** (Codeforces / LeetCode) and exploring Linux systems & developer tooling
 
@@ -81,10 +81,21 @@
   <img src="https://img.shields.io/badge/MariaDB-1a1b27?style=for-the-badge&logo=mariadb&logoColor=7dcfff" alt="MariaDB" />
 </p>
 
+#### Video, Color & Adobe Creative Suite
+<p>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41IiBmaWxsPSJub25lIiBzdHJva2U9IiNjMGNhZjUiIHN0cm9rZS13aWR0aD0iMS4zIi8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSI3LjIiIHI9IjMuNCIgZmlsbD0iIzdhYTJmNyIvPjxjaXJjbGUgY3g9IjcuOCIgY3k9IjE0LjUiIHI9IjMuNCIgZmlsbD0iI2Y3NzY4ZSIvPjxjaXJjbGUgY3g9IjE2LjIiIGN5PSIxNC41IiByPSIzLjQiIGZpbGw9IiM5ZWNlNmEiLz48L3N2Zz4%3D" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzAwMDA1YiIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik02IDE3VjcuNWgzLjJhMi40IDIuNCAwIDAgMSAwIDQuOEg2IiBmaWxsPSJub25lIiBzdHJva2U9IiM5OTk5ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTE0LjIgMTd2LTYuMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNC4yIDEyLjZhMi40IDIuNCAwIDAgMSAzLjUtMS41IiBmaWxsPSJub25lIiBzdHJva2U9IiM5OTk5ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After_Effects-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzAwMDA1YiIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik01LjUgMTdMOC40IDcuNUwxMS4zIDE3IiBmaWxsPSJub25lIiBzdHJva2U9IiM5OTk5ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTYuNSAxNC4yaDMuOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xMy42IDEzLjhoNC43YTIuMyAyLjMgMCAxIDAtLjcgMi44IiBmaWxsPSJub25lIiBzdHJva2U9IiM5OTk5ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Lightroom-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzAwMWUzNiIgc3Ryb2tlPSIjMzFhOGZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik02LjIgNy41VjE3aDQuNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzFhOGZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNC4yIDE3di02LjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzMxYThmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTQuMiAxMi42YTIuNCAyLjQgMCAwIDEgMy41LTEuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzFhOGZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/Photoshop-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzAwMWUzNiIgc3Ryb2tlPSIjMzFhOGZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik02IDE3VjcuNWgzLjJhMi40IDIuNCAwIDAgMSAwIDQuOEg2IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMWE4ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTE3LjUgMTEuNkMxNiAxMC42IDE0LjMgMTEuMyAxNC4zIDEyLjZDMTQuMyAxMy45IDE3LjcgMTMuOCAxNy43IDE1LjNDMTcuNyAxNi42IDE1LjggMTcuMSAxNC4zIDE2LjEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzMxYThmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzMzMDAwMCIgc3Ryb2tlPSIjZmY5YTAwIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik01LjUgMTdMOC40IDcuNUwxMS4zIDE3IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjlhMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTYuNSAxNC4yaDMuOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY5YTAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNiAxN3YtNS44IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjlhMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTE2IDguMnYuMSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY5YTAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Audition-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzAwMDA1YiIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik01LjUgMTdMOC40IDcuNUwxMS4zIDE3IiBmaWxsPSJub25lIiBzdHJva2U9IiM5OTk5ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTYuNSAxNC4yaDMuOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xMy44IDEwLjh2NC4yYTIuMiAyLjIgMCAwIDAgNC40IDB2LTQuMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Audition" />
+  <img src="https://img.shields.io/badge/Media_Encoder-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQuNSIgZmlsbD0iIzAwMDA1YiIgc3Ryb2tlPSIjOTk5OWZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjxwYXRoIGQ9Ik01LjIgMTdWNy41bDMuMiA1bDMuMi01VjE3IiBmaWxsPSJub25lIiBzdHJva2U9IiM5OTk5ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTEzLjYgMTMuOGg0LjdhMi4zIDIuMyAwIDEgMC0uNyAyLjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzk5OTlmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="Media Encoder" />
+</p>
+
 #### 3D, Design & Hardware
 <p>
   <img src="https://img.shields.io/badge/Blender-1a1b27?style=for-the-badge&logo=blender&logoColor=ff9e64" alt="Blender" />
-  <img src="https://img.shields.io/badge/After_Effects-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2JiOWFmNyI%2BPHBhdGggZD0iTTQgM2gxNmExIDEgMCAwIDEgMSAxdjE2YTEgMSAwIDAgMS0xIDFIN2ExIDEgMCAwIDEtMS0xVjRhMSAxIDAgMCAxIDEtMXptNS44IDExLjRsLS44IDIuNkg2LjlsMy4zLTEwaDIuNWwzLjMgMTBoLTIuMmwtLjgtMi42SDkuOHptLjQtMS43aDIuNGwtMS4yLTMuOWwtMS4yIDMuOXoiLz48L3N2Zz4%3D" alt="After Effects" />
   <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=f7768e" alt="Figma" />
   <img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=7dcfff" alt="Arduino" />
   <img src="https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&logo=espressif&logoColor=f7768e" alt="ESP32" />
@@ -216,13 +227,13 @@
 <h2 align="center">📊 Analytics &amp; Contribution Activity</h2>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmokhande-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmokhande-byte&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_color=3d59a1&border_radius=10" alt="Top Languages" />
   &nbsp;
-  <img width="56%" src="https://streak-stats.demolab.com/?user=kmokhande-byte&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=7aa2f7" alt="GitHub Streak Stats" />
+  <img width="56%" src="https://streak-stats.demolab.com/?user=kmokhande-byte&theme=tokyonight&background=1a1b27&border=3d59a1&border_radius=10&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=7aa2f7" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmokhande-byte&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmokhande-byte&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&hide_border=false&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 <p align="center">
