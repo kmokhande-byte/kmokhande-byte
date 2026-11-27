@@ -34,8 +34,7 @@
 
 ### ⚡ About Me
 
-- 🔭 Contributing to open-source 3D tooling at the **Blender Foundation** (preparing for **GSoC 2027**)
-- 🧠 Architecting self-hosted multi-LLM routing infrastructure (**OmniRoute** on Docker & Azure Linux)
+- 🔭 Contributing to open-source 3D tooling at the **Blender Foundation**
 - 🎬 Building 3D kinetic typography & mixed-media pipelines (**Blender 5.2 Cycles + Remotion React**)
 - 📱 Shipping native **Java / Android** apps (**StickerBridgeApp**) and developer utilities (**book**, **krushnamokhand**)
 - 💻 Solving algorithmic problems in **C++ & Python** (Codeforces / LeetCode) and exploring Linux systems & developer tooling
