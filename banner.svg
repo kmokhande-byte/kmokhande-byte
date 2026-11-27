@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0F17" />
+      <stop offset="55%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 150) rotate(90) scale(220 320)">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowCrimson" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 140) rotate(90) scale(230 340)">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="lineGrad" x1="90" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base card -->
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#bgGrad)" stroke="#1F2937" stroke-width="2" />
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#glowBlue)" />
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#glowCrimson)" />
+
+  <!-- Subtle background grid lines -->
+  <g stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="240" y1="0" x2="240" y2="300" />
+    <line x1="480" y1="0" x2="480" y2="300" />
+    <line x1="720" y1="0" x2="720" y2="300" />
+    <line x1="960" y1="0" x2="960" y2="300" />
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="78" y="84" width="5" height="132" rx="2.5" fill="#EF4444" />
+
+  <!-- Main identity typography -->
+  <text x="108" y="106" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.5">@KMOKHANDE-BYTE  •  DEVELOPER PORTFOLIO</text>
+  <text x="108" y="160" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Krishna Mokhande</text>
+  <rect x="108" y="179" width="520" height="2.5" rx="1.25" fill="url(#lineGrad)" />
+  <text x="108" y="216" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Cybersecurity   •   Python   •   Java &amp; Android   •   Web</text>
+
+  <!-- Right subtle terminal card -->
+  <g transform="translate(860, 74)">
+    <rect x="0" y="0" width="280" height="152" rx="12" fill="#090D16" fill-opacity="0.92" stroke="#1F2937" stroke-width="1.5" />
+    <circle cx="20" cy="20" r="4.5" fill="#EF4444" fill-opacity="0.85" />
+    <circle cx="36" cy="20" r="4.5" fill="#FBBF24" fill-opacity="0.85" />
+    <circle cx="52" cy="20" r="4.5" fill="#34D399" fill-opacity="0.85" />
+    <line x1="0" y1="36" x2="280" y2="36" stroke="#1F2937" stroke-width="1" />
+    <text x="18" y="64" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">$ whoami</text>
+    <text x="18" y="86" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">krishna_mokhande</text>
+    <text x="18" y="112" fill="#EF4444" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">$ focus --areas</text>
+    <text x="18" y="134" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">[security, android, python]</text>
+  </g>
+</svg>
