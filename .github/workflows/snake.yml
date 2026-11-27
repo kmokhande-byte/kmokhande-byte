@@ -1,0 +1,47 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate dark contribution snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bb9af7&color_dots=#1a1b27,#292e42,#3d59a1,#7aa2f7,#bb9af7
+
+      - name: Push snake SVG to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          STAGE_DIR="$(mktemp -d)"
+          cp dist/github-contribution-grid-snake-dark.svg "$STAGE_DIR/"
+          REMOTE_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          cd "$STAGE_DIR"
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add origin "$REMOTE_URL"
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch --depth=1 origin output
+            git reset --soft origin/output
+          fi
+          git add github-contribution-grid-snake-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update contribution snake animation"
+            git push origin output
+          else
+            echo "No changes to contribution snake SVG."
+          fi
