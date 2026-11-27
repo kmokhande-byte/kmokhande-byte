@@ -15,6 +15,7 @@ START_MARKER = "<!--START_SECTION:latest_repos-->"
 END_MARKER = "<!--END_SECTION:latest_repos-->"
 MAX_REPOS = 8
 MAX_DESC_LEN = 62
+EXCLUDED_REPOS = {"file_danger_detector", "passwordhasher"}
 
 
 def fetch_repos(username: str, token: str | None = None) -> list[dict]:
@@ -41,6 +42,7 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
         if not repo.get("private")
         and not repo.get("fork")
         and repo.get("name", "").lower() != username.lower()
+        and repo.get("name", "").lower() not in EXCLUDED_REPOS
     ]
     filtered.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
     return filtered[:MAX_REPOS]

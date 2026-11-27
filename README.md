@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:292e42,100:3d59a1&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%203D%20Tech&descSize=16&descAlignY=63&stroke=1a1b27&strokeWidth=1" alt="Krishna Mokhande Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:292e42,100:3d59a1&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Systems%20%E2%80%A2%203D%20Tech&descSize=16&descAlignY=63&stroke=1a1b27&strokeWidth=1" alt="Krishna Mokhande Header Banner" width="100%" />
 
 <!-- Animated Typing Tagline -->
 <a href="https://github.com/kmokhande-byte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Engineering+Undergrad+%40+IIT+Delhi;Full-Stack%2C+Java%2FAndroid+%26+Desktop+Systems;3D+Motion+%26+Creative+Tech+(Blender+%2B+Remotion);Self-Hosted+AI+Builder+%26+Cybersecurity+Explorer" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Engineering+Undergrad+%40+IIT+Delhi;Full-Stack%2C+Java%2FAndroid+%26+Desktop+Systems;3D+Motion+%26+Creative+Tech+(Blender+%2B+Remotion);Self-Hosted+AI+%26+Open-Source+Tooling+Builder" alt="Typing Tagline" />
 </a>
 
 <!-- Social & Profile Counter Badges -->
@@ -37,8 +37,8 @@
 - 🔭 Contributing to open-source 3D tooling at the **Blender Foundation** (preparing for **GSoC 2027**)
 - 🧠 Architecting self-hosted multi-LLM routing infrastructure (**OmniRoute** on Docker & Azure Linux)
 - 🎬 Building 3D kinetic typography & mixed-media pipelines (**Blender 5.2 Cycles + Remotion React**)
-- 📱 Shipping native **Java / Android** apps (**StickerBridgeApp**) and privacy & cybersecurity tools (**ProVpn**, **file_Danger_Detector**, **passwordHasher**)
-- 💻 Solving algorithmic problems in **C++ & Python** (Codeforces / LeetCode) and exploring Linux systems & CTF wargames
+- 📱 Shipping native **Java / Android** apps (**StickerBridgeApp**) and developer utilities (**book**, **krushnamokhand**)
+- 💻 Solving algorithmic problems in **C++ & Python** (Codeforces / LeetCode) and exploring Linux systems & developer tooling
 
 <br clear="both" />
 
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7dcfff" alt="NumPy" />
 </p>
 
-#### Infrastructure, Security & OS
+#### Infrastructure & OS
 <p>
   <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=e0af68" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7aa2f7" alt="Docker" />
@@ -80,7 +80,6 @@
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git" />
   <img src="https://img.shields.io/badge/Gradle-1a1b27?style=for-the-badge&logo=gradle&logoColor=9ece6a" alt="Gradle" />
   <img src="https://img.shields.io/badge/MariaDB-1a1b27?style=for-the-badge&logo=mariadb&logoColor=7dcfff" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Cybersecurity-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=bb9af7" alt="Cybersecurity" />
 </p>
 
 #### 3D, Design & Hardware
@@ -156,7 +155,7 @@
   </tr>
 </table>
 
-<h3 align="center">📱 Android, Privacy &amp; Cybersecurity Repositories</h3>
+<h3 align="center">📱 Android, Web &amp; Automation Repositories</h3>
 
 <table width="100%">
   <tr>
@@ -173,32 +172,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ ProVpn</h3>
-      <p>Privacy-focused VPN architecture project designed to secure internet traffic through encrypted connections across networks.</p>
-      <p>
-        <code>Privacy</code> <code>Networking</code> <code>Encryption</code>
-      </p>
-      <p>
-        <a href="https://github.com/kmokhande-byte/ProVpn">
-          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7" alt="ProVpn Source" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 file_Danger_Detector</h3>
-      <p>Lightweight JavaScript malware &amp; suspicious-file scanner applying cybersecurity inspection concepts to flag risky payloads.</p>
-      <p>
-        <code>JavaScript</code> <code>Cybersecurity</code> <code>Static Analysis</code>
-      </p>
-      <p>
-        <a href="https://github.com/kmokhande-byte/file_Danger_Detector">
-          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=bb9af7" alt="file_Danger_Detector Source" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>📚 book</h3>
       <p>Python-based automation tool that queries, extracts, and filters open-access legal academic &amp; study PDF links.</p>
       <p>
@@ -207,6 +180,32 @@
       <p>
         <a href="https://github.com/kmokhande-byte/book">
           <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=7dcfff" alt="book Source" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 krushnamokhand</h3>
+      <p>Static multi-page web resource directory built from scratch with clean HTML5 layout and modular CSS3 styling.</p>
+      <p>
+        <code>HTML5</code> <code>CSS3</code> <code>Web Directory</code>
+      </p>
+      <p>
+        <a href="https://github.com/kmokhande-byte/krushnamokhand">
+          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7" alt="krushnamokhand Source" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Profile Automation Engine</h3>
+      <p>Self-updating GitHub profile repository running scheduled GitHub Actions for live API repo syncing and contribution snake rendering.</p>
+      <p>
+        <code>Python</code> <code>GitHub Actions</code> <code>YAML</code> <code>SVG</code>
+      </p>
+      <p>
+        <a href="https://github.com/kmokhande-byte/kmokhande-byte">
+          <img src="https://img.shields.io/badge/Source-GitHub-1a1b27?style=flat-square&logo=github&logoColor=bb9af7" alt="Profile Automation Source" />
         </a>
       </p>
     </td>
@@ -241,8 +240,6 @@
 | :--- | :--- | :---: | :---: |
 | [**StickerBridgeApp**](https://github.com/kmokhande-byte/StickerBridgeApp) | Android sticker pack app for WhatsApp built with Java, Androi… | `Java` · ⭐ 0 | 2026-11-22 |
 | [**ProVpn**](https://github.com/kmokhande-byte/ProVpn) | ProVPN is a privacy-focused VPN project that secures internet… | ⭐ 0 | 2026-06-13 |
-| [**file_Danger_Detector**](https://github.com/kmokhande-byte/file_Danger_Detector) | A simple JavaScript-based malware file detector that scans fi… | `JavaScript` · ⭐ 0 | 2026-05-17 |
-| [**passwordHasher**](https://github.com/kmokhande-byte/passwordHasher) | Educational JavaScript utility demonstrating basic character-… | `JavaScript` · ⭐ 1 | 2026-05-17 |
 | [**book**](https://github.com/kmokhande-byte/book) | A Python-based tool that automatically searches the internet… | `Python` · ⭐ 0 | 2026-03-08 |
 | [**krushnamokhand**](https://github.com/kmokhande-byte/krushnamokhand) | Static multi-page web resource directory built with HTML and… | `HTML` · ⭐ 0 | 2026-01-02 |
 
