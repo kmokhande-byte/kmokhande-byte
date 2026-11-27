@@ -3,13 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kmokhande-byte?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_App_Dev-0EA5E9?style=for-the-badge" alt="Focus" />
-  </a>
-  <a href="https://github.com/kmokhande-byte">
-    <img src="https://img.shields.io/badge/GitHub-@kmokhande--byte-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Building-Practical_Tools-DC2626?style=for-the-badge" alt="Building Practical Tools" />
+  <a href="https://github.com/kmokhande-byte?tab=repositories"><img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_App_Dev-0EA5E9?style=flat-square" alt="Focus" /></a>
+  <a href="https://github.com/kmokhande-byte"><img src="https://img.shields.io/badge/GitHub-@kmokhande--byte-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Building-Practical_Tools-DC2626?style=flat-square" alt="Building Practical Tools" />
 </p>
 
 ---
