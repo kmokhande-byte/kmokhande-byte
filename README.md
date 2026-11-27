@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%203D%20Tech&descSize=16&descAlignY=63&animation=fadeIn" alt="Krishna Mokhande Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:292e42,100:3d59a1&height=210&section=header&text=Krishna%20Mokhande&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=IIT%20Delhi%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%203D%20Tech&descSize=16&descAlignY=63&stroke=1a1b27&strokeWidth=1" alt="Krishna Mokhande Header Banner" width="100%" />
 
 <!-- Animated Typing Tagline -->
 <a href="https://github.com/kmokhande-byte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=820&lines=Engineering+Undergrad+%40+IIT+Delhi;Full-Stack%2C+Java%2FAndroid+%26+Desktop+Systems+Developer;3D+Motion+%26+Creative+Technologist+(Blender+%2B+Remotion);Self-Hosted+AI+Builder+%26+Cybersecurity+Explorer" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Engineering+Undergrad+%40+IIT+Delhi;Full-Stack%2C+Java%2FAndroid+%26+Desktop+Systems;3D+Motion+%26+Creative+Tech+(Blender+%2B+Remotion);Self-Hosted+AI+Builder+%26+Cybersecurity+Explorer" alt="Typing Tagline" />
 </a>
 
 <!-- Social & Profile Counter Badges -->
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzdhYTJmNyI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn" />
   </a>
   <a href="mailto:contact.krushna07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact.krushna07%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7" alt="Email" />
   </a>
   <a href="https://v0-specmakaiwebsite.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Web-Specmakai-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Specmakai Live Web" />
@@ -249,5 +249,5 @@
 <!--END_SECTION:latest_repos-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=100&section=footer" alt="Footer Wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:292e42,100:3d59a1&height=100&section=footer" alt="Footer Wave" width="100%" />
 </div>
