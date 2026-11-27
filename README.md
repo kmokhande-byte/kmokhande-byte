@@ -248,6 +248,7 @@
 
 | Repository | Description | Stack | Updated |
 | :--- | :--- | :---: | :---: |
+| [**VisageTrace**](https://github.com/kmokhande-byte/VisageTrace) | Public footprint tracing, facial similarity lookup, and keyle… | `Python` · ⭐ 0 | 2026-11-27 |
 | [**StickerBridgeApp**](https://github.com/kmokhande-byte/StickerBridgeApp) | Android sticker pack app for WhatsApp built with Java, Androi… | `Java` · ⭐ 0 | 2026-11-22 |
 | [**ProVpn**](https://github.com/kmokhande-byte/ProVpn) | ProVPN is a privacy-focused VPN project that secures internet… | ⭐ 0 | 2026-06-13 |
 | [**book**](https://github.com/kmokhande-byte/book) | A Python-based tool that automatically searches the internet… | `Python` · ⭐ 0 | 2026-03-08 |
